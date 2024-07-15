@@ -1,0 +1,84 @@
+C:\IS\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfoInputs.cache
+C:\IS\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfo.cs
+C:\IS\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.csproj.CoreCompileInputs.cache
+C:\IS\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.exe
+C:\IS\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.deps.json
+C:\IS\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.runtimeconfig.json
+C:\IS\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.dll
+C:\IS\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.pdb
+C:\IS\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.dll
+C:\IS\ConsolaAppEx\obj\Debug\net8.0\refint\ConsolaAppEx.dll
+C:\IS\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.pdb
+C:\IS\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.genruntimeconfig.cache
+C:\IS\ConsolaAppEx\obj\Debug\net8.0\ref\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.exe
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.deps.json
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.runtimeconfig.json
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.pdb
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfoInputs.cache
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfo.cs
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\obj\Debug\net8.0\refint\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.pdb
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.genruntimeconfig.cache
+C:\Users\thedi\Desktop\exame\Exame\ConsolaAppEx\obj\Debug\net8.0\ref\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.exe
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.deps.json
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.runtimeconfig.json
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.pdb
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfoInputs.cache
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfo.cs
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\obj\Debug\net8.0\refint\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.pdb
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.genruntimeconfig.cache
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame\ConsolaAppEx\obj\Debug\net8.0\ref\ConsolaAppEx.dll
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.exe
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.deps.json
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.runtimeconfig.json
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.dll
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.pdb
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfoInputs.cache
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfo.cs
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.csproj.CoreCompileInputs.cache
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.dll
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\obj\Debug\net8.0\refint\ConsolaAppEx.dll
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.pdb
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.genruntimeconfig.cache
+C:\Users\alunoesgts\Desktop\Exame diogo\ConsolaAppEx\obj\Debug\net8.0\ref\ConsolaAppEx.dll
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.exe
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.deps.json
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.runtimeconfig.json
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.dll
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.pdb
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfoInputs.cache
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfo.cs
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.csproj.CoreCompileInputs.cache
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.dll
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\obj\Debug\net8.0\refint\ConsolaAppEx.dll
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.pdb
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.genruntimeconfig.cache
+C:\Users\alunoesgts\Desktop\Exame 220001395 - Diogo Pinto\ConsolaAppEx\obj\Debug\net8.0\ref\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.exe
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.deps.json
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.runtimeconfig.json
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\bin\Debug\net8.0\ConsolaAppEx.pdb
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfoInputs.cache
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.AssemblyInfo.cs
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\obj\Debug\net8.0\refint\ConsolaAppEx.dll
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.pdb
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\obj\Debug\net8.0\ConsolaAppEx.genruntimeconfig.cache
+C:\Users\thedi\Desktop\CodeShit\Projetos API´s\Exame dois\ConsolaAppEx\obj\Debug\net8.0\ref\ConsolaAppEx.dll

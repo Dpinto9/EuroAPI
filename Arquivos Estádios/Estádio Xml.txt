@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estadios>
+    <estadio id="1" nome="Estádio da Luz" capacidade="64642" morada="Av. Eusébio da Silva Ferreira" cidade="Lisboa" />
+    <estadio id="2" nome="Estádio do Dragão" capacidade="50033" morada="Via Futebol Clube do Porto" cidade="Porto" />
+    <estadio id="3" nome="Estádio José Alvalade" capacidade="50095" morada="Rua Professor Fernando da Fonseca" cidade="Lisboa" />
+    <estadio id="4" nome="Estádio Municipal de Braga" capacidade="30286" morada="Parque Norte" cidade="Braga" />
+</estadios>

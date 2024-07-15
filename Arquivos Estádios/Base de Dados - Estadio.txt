@@ -1,0 +1,14 @@
+CREATE TABLE Estadios (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Nome VARCHAR(100) NOT NULL,
+    Capacidade INT NOT NULL,
+    Morada VARCHAR(100) NOT NULL,
+    Cidade VARCHAR(50) NOT NULL
+);
+
+INSERT INTO Estadios (Nome, Capacidade, Morada, Cidade)
+VALUES
+    ('Estádio da Luz', 64642, 'Av. Eusébio da Silva Ferreira', 'Lisboa'),
+    ('Estádio do Dragão', 50033, 'Via Futebol Clube do Porto', 'Porto'),
+    ('Estádio José Alvalade', 50095, 'Rua Professor Fernando da Fonseca', 'Lisboa'),
+    ('Estádio Municipal de Braga', 30286, 'Parque Norte', 'Braga');

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<!-- Define o template para o elemento raiz estadios -->
+<xsl:template match="/estadios">
+  <html>
+    <head>
+      <title>Lista de Estádios</title>
+      <style>
+        body {
+          font-family: Arial, sans-serif;
+          background-color: #f2f2f2;
+          margin: 20px;
+        }
+        h1 {
+          text-align: center;
+          color: #333;
+        }
+        .estadio {
+          border: 1px solid #ccc;
+          border-radius: 5px;
+          background-color: #fff;
+          padding: 10px;
+          margin-bottom: 10px;
+        }
+        .nome {
+          font-weight: bold;
+          color: #007bff;
+        }
+        .capacidade {
+          color: #28a745;
+          font-size: 0.9em;
+        }
+        .morada, .cidade {
+          font-size: 1em;
+          color: #6c757d;
+        }
+      </style>
+    </head>
+    <body>
+      <h1>Lista de Estádios</h1>
+      <xsl:apply-templates select="estadio" />
+    </body>
+  </html>
+</xsl:template>
+
+<xsl:template match="estadio">
+  <div class="estadio">
+    <span class="nome"><xsl:value-of select="@nome" /></span><br />
+    Capacidade: <span class="capacidade"><xsl:value-of select="@capacidade" /></span><br />
+    Morada: <span class="morada"><xsl:value-of select="@morada" /></span><br />
+    Cidade: <span class="cidade"><xsl:value-of select="@cidade" /></span>
+  </div>
+</xsl:template>
+
+</xsl:stylesheet>
