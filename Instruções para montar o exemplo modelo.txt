@@ -1,0 +1,22 @@
+1. Criar BD em MySQL
+
+CREATE DATABASE `teste1` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+USE `teste1`;
+CREATE TABLE `contas` (
+  `Id` int NOT NULL,
+  `Password` varchar(45) DEFAULT NULL,
+  `Username` varchar(45) DEFAULT NULL,
+  `Role` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+Adicionar Registos na tabela contas
+1	teste	teste	
+2	teste1	teste1	Admin
+	
+2. Analisar código da aplicação cliente e ajustar a porta das chamadas web api (depois de executar a web api, passo 3). Analisar pacotes instalados (por exemplo usando o gestor de Pacotes NuGet, ou o comando dotnet list package ou ainda por consulta do ficheiro xxxxx.csproj) e instalá-los caso não existam.
+
+3. Analisar código da web api (ajustar a ligação à BD, nomeadamente no utilizador e senha). Analisar pacotes instalados (por exemplo usando o gestor de Pacotes NuGet, ou o comando dotnet list package ou ainda por consulta do ficheiro xxxxx.csproj) e instalá-los caso não existam.
+
+
